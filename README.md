@@ -13,8 +13,8 @@ b.	Make sure that years match
 a.	Check if movie years from both data sets are the same
 b.	Add countries that movies filmed with
 5.	Visualization
-a.	Seaborne graphs
-b.	Seaborne heat maps
+a.	Seaborn graphs
+b.	Seaborn heat maps
 6.	Conclusions:
 
 I merged two datasets together that had box office data and film information data.
