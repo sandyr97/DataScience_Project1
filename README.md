@@ -27,4 +27,4 @@ and super hero genres have the highest lifetime gross in the 2000s. This is prob
 franchises like MARVEL and Harry Potter. I used heat maps to look for correlations between rank,
 lifetime gross, duration, and votes and also between which countries. I found a surprising but
 fairly strong correlation between lifetime gross and duration of the movie, and that the United
-States does not film with other countries.
+States does not usually film with other countries.
