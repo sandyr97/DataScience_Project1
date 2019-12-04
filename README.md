@@ -1,6 +1,7 @@
 # DataScience_Project1
 Jimmy Wrangler: Traveling the world on a mission to discover new data
-Steps
+
+Steps:
 1.	Load data into data frame
 a.	Movie
 b.	Box Office
