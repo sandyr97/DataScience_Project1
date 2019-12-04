@@ -15,7 +15,8 @@ b.	Add countries that movies filmed with
 5.	Visualization
 a.	Seaborne graphs
 b.	Seaborne heat maps
-6.	Conclusions 
+6.	Conclusions:
+
 I merged two datasets together that had box office data and film information data.
 Since majority of my data occurred within last ten years, I decided to investigate the 
 data from the 2000s. Through investigating this data, I found that rank and lifetime gross 
