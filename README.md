@@ -2,20 +2,20 @@
 Jimmy Wrangler: Traveling the world on a mission to discover new data
 
 Steps:
-1.	Load data into data frame
-a.	Movie
-b.	Box Office
-2.	Merge datasets
-a.	Merge based on movie title
-3.	Clean data
-a.	Check for NAN values
-b.	Make sure that years match
-4.	Feature Engineering
-a.	Check if movie years from both data sets are the same
-b.	Add countries that movies filmed with
-5.	Visualization
-a.	Seaborn graphs
-b.	Seaborn heat maps
+1.	Load data into data frame <br />
+a.	Movie <br />
+b.	Box Office <br />
+2.	Merge datasets <br />
+a.	Merge based on movie title <br />
+3.	Clean data <br />
+a.	Check for NAN values <br />
+b.	Make sure that years match <br />
+4.	Feature Engineering <br />
+a.	Check if movie years from both data sets are the same <br />
+b.	Add countries that movies filmed with <br />
+5.	Visualization <br />
+a.	Seaborn graphs <br />
+b.	Seaborn heat maps <br />
 6.	Conclusions:
 
 I merged two datasets together that had box office data and film information data.
